@@ -25,3 +25,5 @@ Para carregar a extensão descompactada no modo de desenvolvedor, siga os passos
 2. Ative o **Modo de desenvolvedor** clicando no botão ao lado de "Modo de desenvolvedor".
 
 3. Clique no botão **Carregar descompactado** e selecione o diretório da extensão extraída.
+
+<img src="https://developer.chrome.com/static/docs/extensions/get-started/tutorial/hello-world/image/extensions-page-e0d64d89a6acf_960.png?hl=pt-br"/>
