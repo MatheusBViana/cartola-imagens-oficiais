@@ -1,11 +1,18 @@
-# cartola-imagens-oficiais
-Substitui as imagens genéricas por fotos oficias dos clubes.
+# Cartola Imagens Oficiais
 
-- Carregar uma extensão descompactada
--- Para carregar uma extensão descompactada no modo de desenvolvedor:
+Este repositório tem como objetivo substituir as imagens genéricas dos clubes por fotos oficiais.
 
-1- Acesse a página "Extensões" digitando chrome://extensions em uma nova guia. Os URLs chrome:// não podem ser vinculados.
-  * Como alternativa, clique no botão de quebra-cabeça do menu "Extensões" e selecione Gerenciar extensões na parte de baixo do menu.
-  * Ou clique no menu do Chrome, passe o cursor sobre Mais ferramentas e selecione Extensões.
-2- Ative o modo de desenvolvedor clicando no botão ao lado de Modo de desenvolvedor.
-3- Clique no botão Carregar descompactado e selecione o diretório de extensão.
+## Como carregar a extensão descompactada
+
+Para carregar a extensão descompactada no modo de desenvolvedor, siga os passos abaixo:
+
+1. Acesse a página "Extensões" digitando `chrome://extensions` na barra de endereços.    
+   Como alternativa:
+   - Clique no ícone de quebra-cabeça no menu "Extensões" e selecione **Gerenciar extensões** na parte inferior do menu.
+   - Ou clique no menu do Chrome, passe o cursor sobre **Mais ferramentas** e selecione **Extensões**.
+
+2. Ative o **Modo de desenvolvedor** clicando no botão ao lado de "Modo de desenvolvedor".
+
+3. Clique no botão **Carregar descompactado** e selecione o diretório da extensão.
+
+<img src="https://developer.chrome.com/static/docs/extensions/get-started/tutorial/hello-world/image/extensions-page-e0d64d89a6acf_960.png?hl=pt-br"/>
