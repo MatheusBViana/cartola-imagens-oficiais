@@ -3,7 +3,7 @@
 Este repositório tem como objetivo substituir as imagens genéricas dos clubes por fotos oficiais.
 
 ## Como carregar a extensão descompactada
-
+<img src="https://prnt.sc/4Wvh0tU6EWW-"/>
 Para carregar a extensão descompactada no modo de desenvolvedor, siga os passos abaixo:
 
 1. Acesse a página "Extensões" digitando `chrome://extensions` na barra de endereços.    
