@@ -1,6 +1,8 @@
 # Cartola Imagens Oficiais
 <img src="https://i.imgur.com/4IW1qEV.png"/>
 <img src="https://i.imgur.com/KDkCW8r.png"/>
+<img src="https://i.imgur.com/Ft6nyvM.png"/>
+
 
 Este repositório tem como objetivo substituir as imagens genéricas dos clubes por fotos oficiais.
 
