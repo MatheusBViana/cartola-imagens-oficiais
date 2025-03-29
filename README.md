@@ -31,6 +31,8 @@ Para carregar a extensão descompactada no modo de desenvolvedor, siga os passos
 
 <img src="https://developer.chrome.com/static/docs/extensions/get-started/tutorial/hello-world/image/extensions-page-e0d64d89a6acf_960.png?hl=pt-br"/>
 
+Tá feito!
+
 ## Aviso
 
 Eu tenho ciência de que as fotos dos uniformes podem não ser as mais atualizadas, pois fui procurando manualmente a foto de cada time. Esta é uma extensão apenas para melhorar a experiência do usuário, e posso aprimorá-la no futuro com imagens mais recentes.
