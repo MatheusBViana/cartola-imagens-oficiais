@@ -35,4 +35,4 @@ Tá feito!
 
 ## Aviso
 
-Eu tenho ciência de que as fotos dos uniformes podem não ser as mais atualizadas, pois fui procurando manualmente a foto de cada time. Esta é uma extensão apenas para melhorar a experiência do usuário, e posso aprimorá-la no futuro com imagens mais recentes.
+Eu tenho ciência de que as fotos dos uniformes podem não ser as mais atualizadas, pois fui procurando manualmente a foto de cada time. Esta é uma extensão apenas para melhorar a experiência do usuário, e posso aprimorá-la no futuro com imagens dos jogadores.
