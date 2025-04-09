@@ -1,7 +1,14 @@
 # Cartola Imagens Oficiais
+Essa extensão tem como objetivo substituir as imagens genéricas dos clubes por fotos oficiais.
 
-Este repositório tem como objetivo substituir as imagens genéricas dos clubes por fotos oficiais.
+Página na Chrome Store para instalação rápida: [Cartola Imagens Oficiais](https://chromewebstore.google.com/detail/cartola-imagens-oficiais/aiaglkhmijligfamllijmcpjjfngepje)
 
+## Quer me agradecer?  
+Meu Pix tá aqui:  
+![Pix](https://my-lolla.herokuapp.com/images/barcode.png)
+
+
+Caso queira instalar manualmente e fazer suas próprias alterações:
 ## Primeiros Passos
 
 1. **Baixar o repositório**:
@@ -27,3 +34,6 @@ Para carregar a extensão descompactada no modo de desenvolvedor, siga os passos
 3. Clique no botão **Carregar descompactado** e selecione o diretório da extensão extraída.
 
 <img src="https://developer.chrome.com/static/docs/extensions/get-started/tutorial/hello-world/image/extensions-page-e0d64d89a6acf_960.png?hl=pt-br"/>
+
+Tá feito!
+
