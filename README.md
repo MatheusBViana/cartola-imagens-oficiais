@@ -1,5 +1,6 @@
 # Cartola Imagens Oficiais
 Essa extensão tem como objetivo substituir as imagens genéricas dos clubes por fotos oficiais.
+
 Página na Chrome Store para instalação rápida: [Cartola Imagens Oficiais](https://chromewebstore.google.com/detail/cartola-imagens-oficiais/aiaglkhmijligfamllijmcpjjfngepje)
 
 ## Quer me agradecer?  
