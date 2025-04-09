@@ -1,10 +1,13 @@
 # Cartola Imagens Oficiais
 Essa extensão tem como objetivo substituir as imagens genéricas dos clubes por fotos oficiais.
+Link da extensão para instalação rápida: https://chromewebstore.google.com/detail/cartola-imagens-oficiais/aiaglkhmijligfamllijmcpjjfngepje?authuser=0&hl=pt-BR
 
-<img src="https://i.imgur.com/4IW1qEV.png"/>
-<img src="https://i.imgur.com/KDkCW8r.png"/>
-<img src="https://i.imgur.com/Ft6nyvM.png"/>
+## Quer me agradecer?  
+Meu Pix tá aqui:  
+![Pix](https://my-lolla.herokuapp.com/images/barcode.png)
 
+
+Caso queira instalar manualmente e fazer suas próprias alterações:
 ## Primeiros Passos
 
 1. **Baixar o repositório**:
@@ -33,11 +36,3 @@ Para carregar a extensão descompactada no modo de desenvolvedor, siga os passos
 
 Tá feito!
 
-## Quer me agradecer?  
-Meu Pix tá aqui:  
-![Pix](https://my-lolla.herokuapp.com/images/barcode.png)
-
-
-## Aviso
-
-Eu tenho ciência de que as fotos dos uniformes podem não ser as mais atualizadas, pois fui procurando manualmente a foto de cada time. Esta é uma extensão apenas para melhorar a experiência do usuário, e posso aprimorá-la no futuro com imagens dos jogadores.
