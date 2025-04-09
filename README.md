@@ -8,7 +8,7 @@ Meu Pix tá aqui:
 ![Pix](https://my-lolla.herokuapp.com/images/barcode.png)
 
 
-Caso queira instalar manualmente e fazer suas próprias alterações:
+# Caso queira instalar manualmente e fazer suas próprias alterações:
 ## Primeiros Passos
 
 1. **Baixar o repositório**:
