@@ -6,9 +6,8 @@ Página na Chrome Store para instalação rápida: [Cartola Imagens Oficiais](ht
 ## Quer me agradecer?  
 Meu Pix tá aqui:  
 <img src="https://i.imgur.com/wZjFHpJ.png" style="width: 20%"/>
+
 Ou você pode usar essa chave: 01f6c116-a215-4035-8d0b-567cb3af0647
-
-
 
 # Caso queira instalar manualmente e fazer suas próprias alterações:
 ## Primeiros Passos
