@@ -342,7 +342,7 @@ const teamNames = {
     "FABIANO SOUZA": "https://img.sofascore.com/api/v1/player/1130513/image",
     "LUIZ OTÁVIO": "https://img.sofascore.com/api/v1/player/871204/image",
     "BRUNO TUBARÃO": "https://img.sofascore.com/api/v1/player/931588/image",
-    "DIEGUINHO": "https://img.sofascore.com/api/v1/player/1016930/image",
+    "Diego": "https://img.sofascore.com/api/v1/player/1016930/image",
     "NICOLAS": "https://img.sofascore.com/api/v1/player/841336/image",
     "WILLIAN MACHADO": "https://img.sofascore.com/api/v1/player/925871/image",
     "RAMON MENEZES": "https://img.sofascore.com/api/v1/player/839516/image",
@@ -811,6 +811,7 @@ const teamNames = {
     MIR: `${BASE_ORGS}/2024/08/20/mirassol-novo-svg-71690.svg`,
     CAM: `${BASE_ORGS}/2018/03/10/atletico-mg.svg`,
     RBB: `${BASE_ORGS}/2021/06/28/bragantino.svg`,
+    PAL: `https://s.sde.globo.com/media/organizations/2019/07/06/Palmeiras.svg`,
   };
   
   function replaceShieldIcons() {
@@ -824,7 +825,13 @@ const teamNames = {
         } else if (img.src === `${BASE_ESCUDO}/${code}/45x45.png`) {
           img.src = newSrc;
         }
+        // if (img.alt == "PAL"){
+        //   if (img.className.includes("cartola-campinho-atleta-escudo")){
+        //     img.style.backgroundColor = "white";
+        //   }
+        // } 
       });
+      
     });
   }
   
@@ -866,8 +873,31 @@ const teamNames = {
       const nomeNormalizado = normalizarNome(altNome);
       const entrada = Object.entries(imagensPorTime[siglaTime]).find(
         ([nomeJogador]) =>
-          normalizarNome(nomeJogador).includes(nomeNormalizado) ||
-          nomeNormalizado.includes(normalizarNome(nomeJogador))
+          normalizarNome(nomeJogador) === nomeNormalizado
+      );
+  
+      if (entrada) {
+        const [, novaFoto] = entrada;
+        div.style.backgroundImage = `url(${novaFoto})`;
+      }
+    });
+  }
+
+  function replaceReservas(){
+    document.querySelectorAll(".cartola-campinho-atleta-foto.cartola-campinho-atleta-foto--reserva[ng-style]").forEach(div => {
+      const altNome = div.getAttribute("alt")?.trim() || div.getAttribute("title")?.trim();
+      if (!altNome) return;
+  
+      const container = div.closest('.cartola-campinho-atleta-container');
+      const escudo = container?.querySelector(".cartola-campinho-atleta-escudo");
+      const siglaTime = escudo?.getAttribute("alt")?.trim();
+  
+      if (!siglaTime || !imagensPorTime[siglaTime]) return;
+  
+      const nomeNormalizado = normalizarNome(altNome);
+      const entrada = Object.entries(imagensPorTime[siglaTime]).find(
+        ([nomeJogador]) =>
+          normalizarNome(nomeJogador) === nomeNormalizado
       );
   
       if (entrada) {
@@ -884,6 +914,8 @@ const teamNames = {
   }
   
   let isRunning = false;
+  let isRunningReservas = false;
+
   setInterval(() => {
     if (isRunning) return;
     isRunning = true;
@@ -892,4 +924,14 @@ const teamNames = {
     } finally {
       isRunning = false;
     }
-  }, 200);
+  }, 90);
+
+  setInterval(() => {
+    if (isRunningReservas) return;
+    isRunningReservas = true;
+    try {
+      replaceReservas();
+    } finally {
+      isRunningReservas = false;
+    }
+  }, 90);
