@@ -5,9 +5,8 @@ Página na Chrome Store para instalação rápida: [Cartola Imagens Oficiais](ht
 
 ## Quer me agradecer?  
 Meu Pix tá aqui:  
-<img src="https://my-lolla.herokuapp.com/images/barcode.png" style="width: 50%"/>
+<img src="https://my-lolla.herokuapp.com/images/barcode.png" style="width: 30%"/>
 
-![Pix](https://my-lolla.herokuapp.com/images/barcode.png)
 
 
 # Caso queira instalar manualmente e fazer suas próprias alterações:
