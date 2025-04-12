@@ -934,4 +934,4 @@ const teamNames = {
     } finally {
       isRunningReservas = false;
     }
-  }, 90);
+  }, 500);
