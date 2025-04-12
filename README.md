@@ -11,8 +11,8 @@ Ou você pode usar essa chave: 01f6c116-a215-4035-8d0b-567cb3af0647
 
 ## Feedback / Sugestão ?
 Manda no insta!
-instagram.com/matheus_bermudes/
-
+[instagram.com/matheus_bermudes/
+](https://www.instagram.com/matheus_bermudes/)
 # Caso queira instalar manualmente e fazer suas próprias alterações:
 ## Primeiros Passos
 
