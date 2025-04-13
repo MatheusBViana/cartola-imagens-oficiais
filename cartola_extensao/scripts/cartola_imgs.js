@@ -858,6 +858,32 @@ const teamNames = {
       }
     });
   }
+
+  function replacePlayerPhotosLive() {
+    document.querySelectorAll(".card-atleta-com-parciais").forEach(card => {
+      const nomeEl = card.querySelector(".apelido-atleta");
+      const escudoEl = card.querySelector(".escudo-clube");
+      const img = card.querySelector(".atleta-perfil-foto");
+  
+      const altNome = nomeEl?.textContent?.trim();
+      const time = escudoEl?.alt?.trim();
+  
+      if (!altNome || !time || !imagensPorTime[time]) {
+        return;
+      }
+  
+      const nomeNormalizado = normalizarNome(altNome);
+      const entrada = Object.entries(imagensPorTime[time]).find(
+        ([nomeJogador]) => normalizarNome(nomeJogador) === nomeNormalizado
+      );
+  
+      if (entrada) {
+        const [_, novaFoto] = entrada;
+        img.src = novaFoto;
+      }
+    });
+  }
+  
   
   function replaceCampinhoBackgrounds() {
     document.querySelectorAll(".cartola-campinho-atleta-foto > div[ng-style]").forEach(div => {
@@ -908,6 +934,7 @@ const teamNames = {
   }
   
   function replaceImages() {
+    replacePlayerPhotosLive();
     replaceShieldIcons();
     replacePlayerPhotos();
     replaceCampinhoBackgrounds();
