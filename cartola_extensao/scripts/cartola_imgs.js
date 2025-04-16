@@ -48,7 +48,8 @@ const teamNames = {
     "LÉO JARDIM": "https://img.sofascore.com/api/v1/player/595598/image",
     "DANIEL FUZATO": "https://img.sofascore.com/api/v1/player/863276/image",
     "PABLO": "https://img.sofascore.com/api/v1/player/1652393/image",
-    "ALEXANDER": "https://img.sofascore.com/api/v1/player/981404/image"
+    "ALEXANDER": "https://img.sofascore.com/api/v1/player/981404/image",
+    "PAYET": "https://img.sofascore.com/api/v1/player/14216/image",
   }
   const cor = {
     "Ramón Díaz": "https://img.sofascore.com/api/v1/manager/784889/image",
@@ -311,7 +312,9 @@ const teamNames = {
     "ROCHET": "https://img.sofascore.com/api/v1/player/581060/image",
     "IVAN QUARESMA": "https://img.sofascore.com/api/v1/player/795029/image",
     "ANTHONI": "https://img.sofascore.com/api/v1/player/1106134/image",
-    "KAUAN": "https://img.sofascore.com/api/v1/player/1485233/image"
+    "KAUAN": "https://img.sofascore.com/api/v1/player/1485233/image",
+    "IVAN" : "https://img.sofascore.com/api/v1/player/795029/image",
+    "VICTOR GABRIEL" : "https://img.sofascore.com/api/v1/player/1106487/image",
   }
   
   const cea = {
@@ -386,7 +389,8 @@ const teamNames = {
     "BRUNO PACHECO": "https://img.sofascore.com/api/v1/player/870691/image",
     "JOÃO RICARDO": "https://img.sofascore.com/api/v1/player/839761/image",
     "BRENNO": "https://img.sofascore.com/api/v1/player/914481/image",
-    "MAGRÃO": "https://img.sofascore.com/api/v1/player/1083070/image"
+    "MAGRÃO": "https://img.sofascore.com/api/v1/player/1083070/image",
+    "GUSTAVO MANCHA": "https://img.sofascore.com/api/v1/player/2034540/image",
   }
   
   const bot = {
@@ -468,7 +472,8 @@ const teamNames = {
     "MARCÃO": "https://img.sofascore.com/api/v1/player/125861/image",
     "MATEUS CLAUS": "https://img.sofascore.com/api/v1/player/974334/image",
     "RUAN CARNEIRO": "https://img.sofascore.com/api/v1/player/1014248/image",
-    "EUDES RUAN DE SOUSA CARNEIRO": "https://img.sofascore.com/api/v1/player/1836147/image"
+    "EUDES RUAN DE SOUSA CARNEIRO": "https://img.sofascore.com/api/v1/player/1836147/image",
+    "DUDU VIEIRA": "https://img.sofascore.com/api/v1/player/870270/image",
   }
   
   const flu = {
@@ -543,7 +548,8 @@ const teamNames = {
     "VIERY": "https://img.sofascore.com/api/v1/player/1907760/image",
     "TIAGO VOLPI": "https://img.sofascore.com/api/v1/player/243509/image",
     "GABRIEL GRANDO": "https://img.sofascore.com/api/v1/player/1111770/image",
-    "JORGE BARTHOLDY": "https://img.sofascore.com/api/v1/player/1639127/image"
+    "JORGE BARTHOLDY": "https://img.sofascore.com/api/v1/player/1639127/image",
+    "MARLON": "https://img.sofascore.com/api/v1/player/870787/image",
   }
   
   const bah = {
@@ -647,7 +653,8 @@ const teamNames = {
     "VINICIUS LIRA": "https://img.sofascore.com/api/v1/player/2039241/image",
     "JOÃO PAULO": "https://img.sofascore.com/api/v1/player/795177/image",
     "GABRIEL BRAZÃO": "https://img.sofascore.com/api/v1/player/905448/image",
-    "DIOGENES": "https://img.sofascore.com/api/v1/player/1128754/image"
+    "DIOGENES": "https://img.sofascore.com/api/v1/player/1128754/image",
+    "MIGUELITO": "https://img.sofascore.com/api/v1/player/1159656/image"
   }
   
   const mir = {
