@@ -10,6 +10,8 @@ Meu Pix tá aqui:
 Ou você pode usar essa chave: 01f6c116-a215-4035-8d0b-567cb3af0647
 
 ## Feedback / Sugestão ?
+Atenção, já estou ciente do problema de imagens em branco, estou viajando e resolverei quando tiver tempo
+
 Manda no zap ou no insta!
 
 [Whatsapp](https://wa.me/27999535114)
