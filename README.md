@@ -10,7 +10,7 @@ Meu Pix tá aqui:
 Ou você pode usar essa chave: 01f6c116-a215-4035-8d0b-567cb3af0647
 
 ## Feedback / Sugestão ?
-Atenção, já estou ciente do problema de imagens em branco, estou viajando e resolverei quando tiver tempo
+Atenção, o problema de imagens em branco já foi resolvido, o código do Github já está atualizado funcionando corretamente, mas deve demorar uns dias até atualizar na loja do chrome.
 
 Manda no zap ou no insta!
 
