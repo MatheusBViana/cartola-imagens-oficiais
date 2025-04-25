@@ -167,7 +167,7 @@ const fla = {
   "ZÉ WELINTON": "https://i.imgur.com/bGs0pUV.jpeg",
   "JOÃO VICTOR DE SOUZA CUNHA": "https://i.imgur.com/q3XcU8d.png",
   "ROSSI": "https://i.imgur.com/MvkU4Yv.png",
-  "MATHEUS CUNHA": "https://i.imgur.com/Et1LCXi.jpeg",
+  "MATHEUS CUNHA": "https://i.imgur.com/69QoNRo.png",
   "DYOGO ALVES": "https://i.imgur.com/GACeC0i.jpeg"
 }
 
@@ -242,6 +242,7 @@ const pal = {
 }
 
 const cam = {
+  "Caio Maia": "https://i.imgur.com/waPVSCf.png",
   "Cuca": "https://i.imgur.com/JaRjwtq.jpeg",
   "HULK": "https://i.imgur.com/Hv0uEz1.jpeg",
   "RONY": "https://i.imgur.com/OjmcOpK.jpeg",
@@ -274,6 +275,8 @@ const cam = {
 }
 
 const intz = {
+  "Ivan": "https://i.imgur.com/ddNjPn0.png",
+  "Victor Gabriel": "https://i.imgur.com/uWrysWk.png",
   "Roger Machado": "https://i.imgur.com/w8H9BUy.jpeg",
   "ENNER VALENCIA": "https://i.imgur.com/fEVxdZd.jpeg",
   "BORRÉ": "https://i.imgur.com/XvKbKpp.jpeg",
@@ -324,7 +327,7 @@ const cea = {
   "AYLON": "https://i.imgur.com/i6uLjdc.jpeg",
   "FERNANDINHO": "https://i.imgur.com/tJgicbE.jpeg",
   "JOÃO VICTOR": "https://i.imgur.com/r5G6cnH.jpeg",
-  "GUILHERME LUIZ": "https://i.imgur.com/qZa77bG.jpeg",
+  "GUILHERME": "https://i.imgur.com/qZa77bG.jpeg",
   "RÔMULO": "https://i.imgur.com/J0sqDHO.jpeg",
   "MATHEUS ARAÚJO": "https://i.imgur.com/1PB7xki.jpeg",
   "FERNANDO SOBRAL": "https://i.imgur.com/zJURZAs.jpeg",
@@ -357,6 +360,7 @@ const cea = {
 }
 
 const fort = {
+  "Lucca Prior": "https://i.imgur.com/jm7OvEJ.png",
   "Juan Vojvoda": "https://i.imgur.com/HtYbS82.jpeg",
   "DEYVERSON": "https://i.imgur.com/fBfLOe7.jpeg",
   "LUCERO": "https://i.imgur.com/fBNxV1E.jpeg",
@@ -382,6 +386,7 @@ const fort = {
   "DIOGO BARBOSA": "https://i.imgur.com/TT5U26h.jpeg",
   "FELIPE JONATAN": "https://i.imgur.com/Wn30yUJ.jpeg",
   "TINGA": "https://i.imgur.com/S8PNtkR.jpeg",
+  "GUSTAVO MANCHA": "https://www.zerozero.pt/img/jogadores/new/43/75/874375_gustavo_mancha_20240307202756.jpg",
   "BRÍTEZ": "https://i.imgur.com/xxSDs1j.jpeg",
   "MANCUSO": "https://i.imgur.com/4dn5SYd.jpeg",
   "TITI": "https://i.imgur.com/RMGpboP.jpeg",
@@ -453,7 +458,7 @@ const juv = {
   "REGINALDO": "https://i.imgur.com/WIPAeUD.jpeg",
   "RAFINHA": "https://i.imgur.com/s60gFHK.jpeg",
   "DAVI GOES": "https://i.imgur.com/k9Nx8ab.jpeg",
-  "KELVI": "https://i.imgur.com/KYpsc1r.jpeg",
+  "KELVI GOMES": "https://i.imgur.com/KYpsc1r.jpeg",
   "PEIXOTO": "https://i.imgur.com/V2tVujV.jpeg",
   "WILKER ÁNGEL": "https://i.imgur.com/lNDObN5.jpeg",
   "NATÃ": "https://i.imgur.com/G9N1dIv.jpeg",
@@ -513,6 +518,7 @@ const flu = {
 }
 
 const gre = {
+  "MANO MENEZES": "https://imagecache.365scores.com/image/upload/f_png,w_250,h_250,c_limit,q_auto:eco,d_Athletes:default.png,r_max,c_thumb,g_face,z_0.65/Athletes/44788",
   "MARLON": "https://i.imgur.com/5p1VSe7.jpeg",
   "Gustavo Quinteros": "https://i.imgur.com/DkiiLdd.jpeg",
   "BRAITHWAITE": "https://i.imgur.com/WPvg86P.jpeg",
@@ -551,6 +557,7 @@ const gre = {
 }
 
 const bah = {
+  "Zé Guilherme": "https://www.ogol.com.br/img/jogadores/new/54/68/1145468_ze_guilherme__20240709084953.png",
   "Rogério Ceni": "https://i.imgur.com/m3aLZ0Q.jpeg",
   "Lucho Rodríguez": "https://i.imgur.com/9zeX9lA.jpeg",
   "WILLIAN JOSÉ": "https://i.imgur.com/Bz33KaQ.jpeg",
@@ -585,6 +592,7 @@ const bah = {
 }
 
 const rbb = {
+  "Fernando Seabra": "https://cruzeiropedia.org/images/thumb/a/ac/Fernando.Seabra.png/200px-Fernando.Seabra.png",
   "ISIDRO PITTA": "https://i.imgur.com/4wJhEEu.jpeg",
   "EDUARDO SASHA": "https://i.imgur.com/snA4g4J.jpeg",
   "THIAGO BORBAS": "https://i.imgur.com/8EswSS9.jpeg",
@@ -618,6 +626,7 @@ const rbb = {
 }
 
 const san = {
+  "César Sampaio": "https://img.a.transfermarkt.technology/portrait/big/37807-1717531597.jpg?lm=1",
   "Pedro Caixinha": "https://i.imgur.com/MWba5Un.jpeg",
   "DEIVID WASHINGTON": "https://i.imgur.com/aIIFmuM.jpeg",
   "TIQUINHO SOARES": "https://i.imgur.com/d7lYhhf.jpeg",
