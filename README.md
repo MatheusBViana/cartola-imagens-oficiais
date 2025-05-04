@@ -3,7 +3,7 @@ Essa extensão tem como objetivo substituir as imagens genéricas dos clubes por
 
 Página na Chrome Store para instalação rápida (Aceita Google Chrome, Edge, Opera e outros): [Cartola Imagens Oficiais](https://chromewebstore.google.com/detail/cartola-imagens-oficiais/aiaglkhmijligfamllijmcpjjfngepje)
 
-Também existe no Firefox: [Cartola Imagens Oficiais Firefox[(https://addons.mozilla.org/pt-BR/firefox/addon/cartola-imagens-oficiais/)
+Também existe no Firefox: [Cartola Imagens Oficiais Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/cartola-imagens-oficiais/)
 
 ## Quer me agradecer?  
 Meu Pix tá aqui:  
