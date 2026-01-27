@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Cartola Imagens Oficiais",
-    "version": "1.0",
+    "name": "Cartola Imagens Oficiais 2026",
+    "version": "2.1",
     "description": "Substitui as imagens genéricas por fotos oficias dos clubes.",
     "icons": {
       "128": "images/icon_128.png"
@@ -15,4 +15,7 @@
       }
     ]
   }
+  
+
+
   
