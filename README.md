@@ -1,14 +1,26 @@
 # Cartola Imagens Oficiais
 Essa extensão tem como objetivo substituir as imagens genéricas dos clubes por fotos oficiais.
 
-Página na Chrome Store para instalação rápida: [Cartola Imagens Oficiais](https://chromewebstore.google.com/detail/cartola-imagens-oficiais/aiaglkhmijligfamllijmcpjjfngepje)
+Página na Chrome Store para instalação rápida (Aceita Google Chrome, Edge, Opera e outros): [Cartola Imagens Oficiais](https://chromewebstore.google.com/detail/cartola-imagens-oficiais/aiaglkhmijligfamllijmcpjjfngepje)
+
+Também existe no Firefox: [Cartola Imagens Oficiais Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/cartola-imagens-oficiais/)
 
 ## Quer me agradecer?  
 Meu Pix tá aqui:  
-![Pix](https://my-lolla.herokuapp.com/images/barcode.png)
+<img src="https://i.imgur.com/wZjFHpJ.png" style="width: 20%"/>
 
+Ou você pode usar essa chave: 01f6c116-a215-4035-8d0b-567cb3af0647
 
-Caso queira instalar manualmente e fazer suas próprias alterações:
+## Feedback / Sugestão ?
+Atenção, o problema de imagens em branco já foi resolvido, o código do Github já está atualizado funcionando corretamente, mas deve demorar uns dias até atualizar na loja do chrome.
+
+Manda no zap ou no insta!
+
+[Whatsapp](https://wa.me/27999535114)
+
+[Instagram](https://www.instagram.com/matheus_bermudes/)
+
+# Caso queira instalar manualmente e fazer suas próprias alterações:
 ## Primeiros Passos
 
 1. **Baixar o repositório**:
